@@ -2,5 +2,4 @@
 
 Required Modules:
 
-PIL - pip install Pillow,
-tkinter
+pillow, tkinter
